@@ -1,0 +1,41 @@
+
+
+.first-paragraph {
+
+    color: yellow;
+ background-color: black;
+}
+
+.anything {
+
+    color: orange;
+    background-color: gray; 
+
+}
+
+.text{
+
+    color: red;
+    background-color: blue;
+}
+#text {
+    color: gold;
+    background-color: tomato;
+}
+
+#heading-3{
+    color: green;
+
+}
+
+.heading {
+    color: pink;
+    
+font-size: 60px;
+}
+
+#main-header{
+background-color:darkgreen ;
+
+}
+
